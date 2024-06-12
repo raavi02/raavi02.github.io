@@ -1,6 +1,5 @@
 ---
-title: "An algorithmic recipe to construct Lyapunov functions for
-continuous vector fields"
+title: "An algorithmic recipe to construct Lyapunov functions for continuous vector fields"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'In this work, we introduce a novel and computationally feasible approach to construct Lyapunov functions for equilibria of nonlinear continuous vector fields.'
