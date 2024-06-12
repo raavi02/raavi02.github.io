@@ -1,10 +1,11 @@
 ---
 title: "An algorithmic recipe to construct Lyapunov functions for continuous vector fields"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-02-20-paper-title-number-1
 excerpt: 'In this work, we introduce a novel and computationally feasible approach to construct Lyapunov functions for equilibria of nonlinear continuous vector fields.'
 date: 2024-02-20
 venue: 'Gold Coast, Australia'
+slidesurl: 
 paperurl: ['ANZCC 2024'](https://ieeexplore.ieee.org/document/10432819/)
 citation: 'S. Chattopadhyay, R. Gupta, P. Paruchuri and D. Chatterjee,“An algorithmic recipe to construct Lyapunov functions for
 continuous vector fields,” 2024 Australian & New Zealand Control Conference'
