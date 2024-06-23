@@ -209,7 +209,7 @@ collections:
   portfolio:
     output: false
     permalink: /:collection/:path/
-  interns:
+  internships:
     output: true
     permalink: /:collection/:path/
 
@@ -266,7 +266,7 @@ defaults:
       path: ""
       type: internships
     values:
-      layout: interns
+      layout: single
       author_profile: true
       share: true
 
