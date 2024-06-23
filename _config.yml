@@ -209,8 +209,8 @@ collections:
   portfolio:
     output: false
     permalink: /:collection/:path/
-  talks:
-    output: false
+  interns:
+    output: true
     permalink: /:collection/:path/
 
 
@@ -261,14 +261,14 @@ defaults:
   #     author_profile: true
   #     share: true
   #     comment: true
-  # # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
+  # internships
+  - scope:
+      path: ""
+      type: internships
+    values:
+      layout: interns
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS

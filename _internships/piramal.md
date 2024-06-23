@@ -1,7 +1,7 @@
 ---
 title: "Piramal Capital and Housing Finance Limited"
-collection: interns
-type: "Internships"
+collection: internsships
+type: "internships"
 permalink: /internships/piramal
 # venue: "UC San Francisco, Department of Testing"
 date: 2023-05-14
