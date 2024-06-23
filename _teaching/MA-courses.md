@@ -8,9 +8,15 @@ date: 2023-08-01
 location: "Mumbai, India"
 ---
 
-I have had the wonderful opportunity to be a Teaching Assistant (TA) for 120 + freshmen and sophomores at IIT Bombay on four distinct occasions. My experience about one of them can be found in this [blog](https://ee-damp.github.io/2022-12-21-TAship_blogs_MA111/) curated for the Electrical Engineering Department Academic Program, IITB.
+<div style="display: flex; align-items: center;">
+  <img src="../images/tutees.jpg.jpeg" alt="Me (in yelllow T-shirt) with the tutees (quite few cause of the last day) after giving them a treat!)" width="300" style="margin-right: 20px;">
+  <p>I have had the pleasure to be a Teaching Assistant (TA) for 120 + freshmen and sophomores at IIT Bombay on four distinct occasions. My experience about one of them can be found in this [blog](https://ee-damp.github.io/2022-12-21-TAship_blogs_MA111/) curated for the Electrical Engineering Department Academic Program, IITB.
 <ol>
     <li>MA108: Differential Equations - I</li>
     <li>MA207: Differential Equations - II</li>
     <li>MA111: Calculus</li>
 </ol>
+</p>
+</div>
+
+
