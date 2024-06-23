@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/MA-courses
 venue: "IIT Bombay, Mathematics Department"
-date: 2023
+date: 2023-08-01
 location: "Mumbai, India"
 ---
 
