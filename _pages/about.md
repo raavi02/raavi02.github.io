@@ -7,6 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing Masters in Computer Science at Columbia University. I completed my BTech in Electrical Engineering (with Honours) with Minors in Artificial Intelligence from Indian Institute of Technology Bombay in 2024. My primary interests include areas of machine learning, natural language processing and optimization.
+I am currently pursuing Computer Science as a Master's student at Columbia University. Prior to this, I was at the Indian Institute of Technology Bombay, where I earned my BTech in Electrical Engineering (with Honors) and a Minor in Artificial Intelligence in 2024. My academic passions revolve around machine learning, natural language processing, and optimization.
 
-I love adventure sports and am always looking for the next one! In the meantime, I mostly read murder mysteries and non-fiction, but I am always looking for suggestions!
+When I am not working, you'll find me chasing the thrill of adventure sports. From bungee-jumping to scuba diving, I'm always on the lookout for my next adrenaline rush! During quieter moments, I indulge in gripping murder mysteries and insightful non-fiction. If you have any book recommendations, I'd love to hear them!
+
+
+
+
+
