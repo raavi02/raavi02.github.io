@@ -10,7 +10,7 @@ location: "Mumbai, India"
 
 <div style="display: flex; align-items: center;">
   <img src="../images/pcfhl.jpeg" alt="" width="300" style="margin-right: 20px;">
-  <p>During the summer of '23, I had the wonderful opportunity to intern at Piramal Finance. My main focus was on enhancing the credit risk model by effectively categorizing financial transactions from bank statements. The approach I devised involved a well-structured three-stage pipeline. The first stage employed a rule engine to identify and exclude unconventional categories like Bounced Transactions and Dividends. The second stage, which I termed the "Company Extractor," was responsible for identifying the companies mentioned in the transactions. This step was crucial for understanding the domain associated with each company, which enabled accurate tagging. For instance, if the transaction involved a company like SpiceJet, it was appropriately tagged as "Travel" based on the company's domain. In the final stage of the pipeline, I implemented a sophisticated language model with the ability to comprehend non-colloquial keywords, including certain Hindi terms. This feature was utilized to further refine the transaction tags, enhancing the overall accuracy of the credit risk model.
+  <p>During the summer of '23, I had an amazing opportunity to intern at Piramal Finance. My main project was to enhance the credit risk model by accurately categorizing financial transactions from bank statements. I managed to improve the categorization by an impressive 20.4% :p. This internship ignited my passion for NLP and opened the door to many exciting projects in the future!
 </p>
 </div>
 

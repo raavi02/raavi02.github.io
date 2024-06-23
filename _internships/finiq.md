@@ -8,4 +8,9 @@ permalink: /internships/finiq
 location: "Pune, India"
 ---
 
-Starting out, I interned at FinIQ Consulting as a Quantitative Analyst where I designed an optimized pricer for Target Redemption Forward (TRF) structured products.
+<div style="display: flex; align-items: center;">
+  <img src="../images/finiq.png" alt="" width="300" style="margin-right: 20px;">
+  <p>Starting out, I interned at FinIQ Consulting as a Quantitative Analyst where I designed an optimized pricer for Target Redemption Forward (TRF) structured products.
+</p>
+</div>
+
