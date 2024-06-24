@@ -1,6 +1,6 @@
 ---
 title: "Bachelor's Thesis: Hallucination detection of LLMs"
-excerpt: "Collaborative research with Adobe India submitted to EMNLP 2024"
+excerpt: "Collaborative research with Adobe India submitted to EMNLP 2024."
 collection: "projects"
 ---
 
