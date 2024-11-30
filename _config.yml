@@ -8,13 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Raavi's abode!"
+title                    : "Raavi Gupta"
 title_separator          : "-"
 name                     : &name "Raavi Gupta"
 description              : &description "personal description"
 url                      : https://raavi02.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "raavi02/raavi02.github.io"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,8 +26,8 @@ author:
   name             : "Raavi Gupta"
   pronouns         : # example: "she/her"  
   bio              : "MSCS student at Columbia University"
-  location         : "Earth"
-  # employer         : "Columbia University"
+  location         : "New York"
+#  employer         : "Columbia University"
   uri              : # URL
   email            : "raavi02g@gmail.com" 
 
@@ -284,7 +285,8 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+#timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York
 
 
 # Plugins

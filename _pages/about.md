@@ -1,15 +1,27 @@
 ---
 permalink: /
-title: "Hello there!"
+title: "Hello there :)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently pursuing Computer Science as a Master's student at Columbia University. Prior to this, I was at the Indian Institute of Technology Bombay, where I earned my BTech in Electrical Engineering (with Honors) and a Minor in Artificial Intelligence in 2024. My academic passions revolve around machine learning, natural language processing, and optimization.
+## A bit about me
 
-When I'm not working, I love diving into adventure sports. Whether it's bungee-jumping or scuba diving, I'm always seeking my next adrenaline rush! In my quieter moments, I get lost in gripping murder mysteries or intriguing non-fiction books. If you have any book recommendations, I'd love to hear them!
+I am currently pursuing MS in Computer Science at Columbia University. Prior to this, I spent four wonderful years at IIT Bombay, where I majored in Electrical Engineering (with a minor in AI/ML). At IITB, I was advised by [Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/) and co-advised by [Dr. Sumit Bhatia](http://sumitbhatia.net/). I was also fortunate to work with [Prof. V. Rajbabu](https://www.ee.iitb.ac.in/web/people/rajbabu-velmurugan/) on unsupervised image segmentation and with [Prof. Debasish Chatterjee](https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html) on the construction of Lyapunov functions.
+
+## Research Interests
+
+Natural Language Processing, Image Processing, Optimization
+
+## Interests (non-academic; fortunately they exist)
+
+I love adventure sports having done paragliding, parasailing, bungee-jumping, and scuba diving. I have also started doing hikes, more can be found at my personal page.
+
+## Contact me!
+
+If you think we have similar interests academically/non-academically do contact me!
 
 
 
