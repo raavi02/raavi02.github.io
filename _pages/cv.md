@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/files/Resume_GuptaRaavi.pdf" type="application/pdf" width="1000" height="1000" />
+<embed src="/files/Resume_Raavi_Gupta.pdf" type="application/pdf" width="1000" height="1000" />
 
 
