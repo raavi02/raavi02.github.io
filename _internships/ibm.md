@@ -4,7 +4,7 @@ collection: internships
 type: "internships"
 permalink: /internships/ibm
 # venue: "UC San Francisco, Department of Testing"
-# date: 2023-05-14
+date: 2025-05-19
 location: "NY, US"
 ---
 

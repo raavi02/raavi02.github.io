@@ -4,7 +4,7 @@ collection: internships
 type: "internships"
 permalink: /internships/piramal
 # venue: "UC San Francisco, Department of Testing"
-# date: 2023-05-14
+date: 2023-05-14
 location: "Mumbai, India"
 ---
 

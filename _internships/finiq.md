@@ -4,7 +4,7 @@ collection: internships
 type: "internships"
 permalink: /internships/finiq
 # venue: "UC-Berkeley Institute for Testing Science"
-# date: 2022-12-01
+date: 2022-12-01
 location: "Pune, India"
 ---
 
