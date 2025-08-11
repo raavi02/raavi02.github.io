@@ -33,6 +33,10 @@ permalink: /fun/
       <img src="/files/hampta-pass.jpg" alt="Image 1">
       <p class="carousel-caption">Hampta pass top@14k feet. Took 3 days to reach.</p>
     </div>
+    <div class="carousel-item">
+      <img src="/files/tip2tip.png" alt="Image 2">
+      <p class="carousel-caption">Tip-to-tip across Manhattan: 14 miles (26 km) in one epic walk!</p>
+    </div>
   </div>
   <button class="carousel-control prev" onclick="moveCarousel(-1)">&#10094;</button>
   <button class="carousel-control next" onclick="moveCarousel(1)">&#10095;</button>
