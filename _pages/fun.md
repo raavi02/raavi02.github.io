@@ -12,12 +12,12 @@ permalink: /fun/
 
 [//]: # (</center>)
 
-<center>
+<!-- <center>
   <img src="/files/myVisitedPlaces.gif" alt="Your GIF Description" width="50%">
 </center>
 <center>
     Countries I have visited so far. 
-</center>
+</center> -->
 
 <center>
     <h3 class="carousel-heading">Some people dance. Some people sing. I do adventure sports [WiP].</h3>
