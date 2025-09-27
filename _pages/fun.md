@@ -16,7 +16,7 @@ permalink: /fun/
   <img src="/files/myVisitedPlaces.gif" alt="Your GIF Description" width="50%">
 </center>
 <center>
-    Countries I have visited so far. I someday want to make this entire earth blue.
+    Countries I have visited so far. 
 </center>
 
 <center>
@@ -91,5 +91,5 @@ moveCarousel(0);
 </style>
 
 <center>
-Apart from this, I like reading books (Agatha Christie's my favorite) and making jigsaw puzzles!
+Apart from this, I like reading books (Agatha Christie's my favorite) and solving jigsaw puzzles.
 </center>
