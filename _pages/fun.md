@@ -1,27 +1,8 @@
 ---
-layout: page
+layout: splash
 title: "My Space"
 permalink: /fun/
 ---
-
-[//]: # (<center>)
-
-[//]: # (  <img src="/files/myVisitedPlaces.gif" alt="" )
-
-[//]: # (width="50%">)
-
-[//]: # (</center>)
-
-<!-- <center>
-  <img src="/files/myVisitedPlaces.gif" alt="Your GIF Description" width="50%">
-</center>
-<center>
-    Countries I have visited so far. 
-</center> -->
-
-<center>
-    <h3 class="carousel-heading">Some people dance. Some people sing. I do adventure sports [WiP].</h3>
-</center>
 
 <div class="carousel">
   <div class="carousel-inner">
@@ -60,21 +41,32 @@ moveCarousel(0);
 <style>
 .carousel {
   position: relative;
-  max-width: 600px;
-  margin: auto;
+  width: 100vw;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 .carousel-item {
   display: none;
+  text-align: center;
+  background-color: #000; /* Optional: black background for images that don't fill screen */
 }
 .carousel-item img {
   width: 100%;
-  height: 400px; /* Fixed height */
-  object-fit: cover;
-  object-position: center;
+  height: auto;
+  max-height: 90vh; /* Prevent scrolling on most screens */
+  object-fit: contain;
 }
 .carousel-caption {
   text-align: center;
   margin-top: 10px;
+  color: #fff; /* Ensure caption is visible if background is dark, or add background to caption */
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent background for readability */
+  padding: 10px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 .carousel-control {
   position: absolute;
@@ -85,11 +77,8 @@ moveCarousel(0);
   border: none;
   padding: 10px;
   cursor: pointer;
+  z-index: 10;
 }
-.prev {left: 0;}
-.next {right: 0;}
+.prev {left: 20px;}
+.next {right: 20px;}
 </style>
-
-<center>
-Apart from this, I like reading books (Agatha Christie's my favorite) and solving jigsaw puzzles.
-</center>
