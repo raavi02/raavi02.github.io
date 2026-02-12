@@ -18,6 +18,14 @@ permalink: /fun/
       <img src="/files/tip2tip.png" alt="Image 2">
       <p class="carousel-caption">Tip-to-tip across Manhattan: 14 miles (26 km) in one epic walk!</p>
     </div>
+    <div class="carousel-item">
+      <img src="/files/car-trip.jpg" alt="Car Trip">
+      <p class="carousel-caption">25+ states and 8k miles in 21 days</p>
+    </div>
+    <div class="carousel-item">
+      <img src="/files/kuari-pass-2.jpg" alt="Kuari Pass">
+      <p class="carousel-caption">Kuari pass trek@12.5 feet</p>
+    </div>
   </div>
   <button class="carousel-control prev" onclick="moveCarousel(-1)">&#10094;</button>
   <button class="carousel-control next" onclick="moveCarousel(1)">&#10095;</button>
